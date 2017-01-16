@@ -1,7 +1,7 @@
 server:
    port: 8087
 
-message: 3 tentativa!
+message: With push notification!
 
 logging:
   level:
